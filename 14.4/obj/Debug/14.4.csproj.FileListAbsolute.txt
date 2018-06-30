@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\ConsoleApp2\14.4\obj\Debug\14.4.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ConsoleApp2\14.4\obj\Debug\14.4.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ConsoleApp2\14.4\bin\Debug\14.4.exe.config
+C:\Users\Student\source\repos\ConsoleApp2\14.4\bin\Debug\14.4.exe
+C:\Users\Student\source\repos\ConsoleApp2\14.4\bin\Debug\14.4.pdb
+C:\Users\Student\source\repos\ConsoleApp2\14.4\obj\Debug\14.4.exe
+C:\Users\Student\source\repos\ConsoleApp2\14.4\obj\Debug\14.4.pdb
